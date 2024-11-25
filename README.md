@@ -1,1 +1,1 @@
-I'm Charlie Harrington, a computer programmer and hobby novelist. My life motto is [Create wonderful things, be good, have fun](https://www.charlieharrington.com/create-wonderful-things-be-good-have-fun)
+I'm Charlie Harrington, a computer programmer and hobby novelist. My life motto is [Create wonderful things, be good, have fun](https://www.charlieharrington.com/create-wonderful-things-be-good-have-fun). I work on [Folio](https://folio.co).
